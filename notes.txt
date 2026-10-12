@@ -1,0 +1,1 @@
+Why the git staging area is useful?     ''''''
